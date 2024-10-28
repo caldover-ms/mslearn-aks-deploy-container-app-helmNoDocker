@@ -1,4 +1,4 @@
-image: skdemoacr.azurecr.io/samples/contoso-website
+image: registry1730155080376.azurecr.io/image-workflow-1730154985259
 containerPort: 80
 requests:
   cpu: 100m
